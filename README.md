@@ -1,7 +1,5 @@
 # 🎨 Air Canvas - Draw with Hand Gestures
 
-## ✋🖌️ AirCanvas - Virtual Drawing App using Hand Gestures
-
 An advanced **Air Canvas** app that lets you **draw in the air** using your hand and a webcam!  
 Built using **OpenCV**, **MediaPipe**, and **Python**, this tool brings a real-world drawing experience with gesture-based controls and multiple drawing modes.
 
@@ -80,6 +78,7 @@ Shapes are previewed live and finalized on pinch <br>
 
 ## 📸 Screenshots
 <!-- Add some screenshots or gif demos here if you'd like -->
+<br>
 
 ---
 
