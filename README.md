@@ -5,7 +5,7 @@ Built using **OpenCV**, **MediaPipe**, and **Python**, this tool brings a real-w
 
 ---
 
-![Demo](./Resources/primary_aircanvas-ezgif.com-optimize)
+![Demo](./media/primary_aircanvas-ezgif.com-optimize)
 
 ---
 
